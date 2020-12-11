@@ -12,6 +12,10 @@ Pygame
 
 Tkinter
 
+...and many more!
+
+If you encounter any issues, just contact me.
+
 I hope the code is easy to understand and... Enjoy!
 
 Shortly, I will be adding more code. Stay tuned!
