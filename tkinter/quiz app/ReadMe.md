@@ -1,6 +1,6 @@
 # An amazing quiz app 
 
-A fantastic quiz app with an amazing interface. All the classic feathures with a touch of extraordinary. 
+A fantastic quiz app with an amazing interface. All the classic features with a touch of extraordinary. 
 
 It is a cut above the others and the program is amazing. You can improve your knowledge with this amazing program!
 
