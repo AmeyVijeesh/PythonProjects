@@ -18,6 +18,6 @@ You will need Tkinter for the Graphic user interface, and you will need modules 
 
 #
 
-So hope you enjoy the program and the code is looked for errors. However, if you encounter any, contact me.
+So hope you enjoy the program and the code is looked for errors. However, if you encounter any, raise an issue.
 
 Thank you!
